@@ -1,4 +1,4 @@
-# Note Sharing : #Notes (CodePath Fall2018 Concept)
+# Note Sharing : #Notes
 We all know how hard it is keeping up with the notes of a lecture during the time a professor is teaching. This app will end this nightmare. Through this app users will be able to  take a picture of their notes on a blackboard and assign it a hashtag so that they will be able access it again. They will also be able to share their notes with other students around the world and also get relevant notes from the past.
 Pitch Desk: https://docs.google.com/presentation/d/1PBvJJYgwjYzn9SiF5Xpb5HkreYCkWGxyvzyN7aGjaIQ/edit?usp=sharing
 # General app atributes:
